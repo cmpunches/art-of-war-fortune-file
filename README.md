@@ -1,7 +1,6 @@
 # Summary
 
-This is a transcription of the book "The Art of War" by Sun Tzu into Fortune F
-ile format.
+This is a transcription of the book "The Art of War" by Sun Tzu into Fortune File format.
 
 # How to Use
 On Fedora linux, the fortune utility is located in the package `fortune-mod`.
